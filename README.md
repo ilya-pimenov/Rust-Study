@@ -4,26 +4,26 @@ https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
 
 # Progress
 
-[x] Chapter 1
-[ ] Chapter 2
-[ ] Chapter 3
-[ ] Chapter 4
-[ ] Chapter 5
-[ ] Chapter 6
-[ ] Chapter 7
-[ ] Chapter 8
-[ ] Chapter 9
-[ ] Chapter 10
-[ ] Chapter 11
-[ ] Chapter 12
-[ ] Chapter 13
-[ ] Chapter 14
-[ ] Chapter 15
-[ ] Chapter 16
-[ ] Chapter 17
-[ ] Chapter 18
-[ ] Chapter 19
-[ ] Chapter 20
+1. [x] Chapter 1
+1. [ ] Chapter 2
+1. [ ] Chapter 3
+1. [ ] Chapter 4
+1. [ ] Chapter 5
+1. [ ] Chapter 6
+1. [ ] Chapter 7
+1. [ ] Chapter 8
+1. [ ] Chapter 9
+1. [ ] Chapter 10
+1. [ ] Chapter 11
+1. [ ] Chapter 12
+1. [ ] Chapter 13
+1. [ ] Chapter 14
+1. [ ] Chapter 15
+1. [ ] Chapter 16
+1. [ ] Chapter 17
+1. [ ] Chapter 18
+1. [ ] Chapter 19
+1. [ ] Chapter 20
 
 
 # Links
