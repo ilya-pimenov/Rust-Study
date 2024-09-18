@@ -1,11 +1,9 @@
 # Repo for exercises in Rust Book
 
-https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
-
 # Progress
 
 1. [x] Chapter 1
-1. [ ] Chapter 2
+1. [x] Chapter 2
 1. [ ] Chapter 3
 1. [ ] Chapter 4
 1. [ ] Chapter 5
