@@ -8,7 +8,7 @@
 1. [x] Chapter 4
 1. [x] Chapter 5
 1. [x] Chapter 6
-1. [ ] Chapter 7
+1. [x] Chapter 7
 1. [ ] Chapter 8
 1. [ ] Chapter 9
 1. [ ] Chapter 10
