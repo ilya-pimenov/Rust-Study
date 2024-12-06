@@ -12,7 +12,7 @@
 1. [x] Chapter 8
 1. [x] Chapter 9
 1. [x] Chapter 10
-1. [ ] Chapter 11
+1. [x] Chapter 11
 1. [ ] Chapter 12
 1. [ ] Chapter 13
 1. [ ] Chapter 14
