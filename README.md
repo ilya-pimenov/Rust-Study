@@ -15,7 +15,7 @@
 1. [x] Chapter 11
 1. [x] Chapter 12
 1. [x] Chapter 13
-1. [ ] Chapter 14
+1. [x] Chapter 14
 1. [ ] Chapter 15
 1. [ ] Chapter 16
 1. [ ] Chapter 17
