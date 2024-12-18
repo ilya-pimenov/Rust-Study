@@ -1,6 +1,8 @@
 # Repo for exercises in Rust Book
 
-# Progress
+This is a repo where I keep my follow along sketches that I write in vim while reading through "The Rust Programming Language" book.
+
+## Progress
 
 1. [x] Chapter 1
 1. [x] Chapter 2
@@ -16,14 +18,22 @@
 1. [x] Chapter 12
 1. [x] Chapter 13
 1. [x] Chapter 14
-1. [ ] Chapter 15
+1. [x] Chapter 15
 1. [ ] Chapter 16
 1. [ ] Chapter 17
 1. [ ] Chapter 18
 1. [ ] Chapter 19
 1. [ ] Chapter 20
+1. [ ] Appendix
+    A [ ]
+    B [ ]
+    C [ ]
+    D [ ]
+    E [ ]
+    F [ ]
+    G [ ]
 
 
-# Links
+## Links
 
 1. [The Rust Programming Language](https://doc.rust-lang.org/book)
