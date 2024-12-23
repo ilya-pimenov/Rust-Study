@@ -21,6 +21,9 @@ This is a repo where I keep my follow along sketches that I write in vim while r
 1. [x] Chapter 15
 1. [x] Chapter 16
 1. [/] Chapter 17
+    [x] 1
+    [x] 2
+    [ ] 3
 1. [ ] Chapter 18
 1. [ ] Chapter 19
 1. [ ] Chapter 20
