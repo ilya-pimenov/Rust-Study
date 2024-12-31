@@ -28,8 +28,8 @@ This is a repo where I keep my follow along sketches that I write in vim while r
 1. [/] Chapter 19
     [x] Unsafe Rust
     [x] Advanced Traits
-    [ ] Advanced Types
-    [ ] Advanced Functions and Closures
+    [x] Advanced Types
+    [x] Advanced Functions and Closures
     [ ] Macros
 1. [ ] Chapter 20
 1. [ ] Appendix
