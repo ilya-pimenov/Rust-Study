@@ -25,12 +25,12 @@ This is a repo where I keep my follow along sketches that I write in vim while r
     [x] 2
     [x] 3
 1. [x] Chapter 18
-1. [/] Chapter 19
+1. [x] Chapter 19
     [x] Unsafe Rust
     [x] Advanced Traits
     [x] Advanced Types
     [x] Advanced Functions and Closures
-    [ ] Macros
+    [x] Macros
 1. [ ] Chapter 20
 1. [ ] Appendix
     A [ ]
@@ -38,7 +38,7 @@ This is a repo where I keep my follow along sketches that I write in vim while r
     C [ ]
     D [ ]
     E [ ]
-    F [ ]
+    F [x]
     G [ ]
 
 
