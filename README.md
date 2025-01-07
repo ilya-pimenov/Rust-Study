@@ -31,10 +31,10 @@ This is a repo where I keep my follow along sketches that I write in vim while r
     [x] Advanced Types
     [x] Advanced Functions and Closures
     [x] Macros
-1. [\] Chapter 20
+1. [x] Chapter 20
     [x] 1
     [x] 2
-    [ ] 3
+    [x] 3
 1. [ ] Appendix
     A [ ]
     B [ ]
