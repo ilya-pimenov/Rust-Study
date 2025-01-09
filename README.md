@@ -2,6 +2,7 @@
 
 This is a repo where I keep my follow along sketches that I write in vim while reading through "The Rust Programming Language" book.
 
+
 ## Progress
 
 1. [x] Chapter 1
@@ -21,28 +22,28 @@ This is a repo where I keep my follow along sketches that I write in vim while r
 1. [x] Chapter 15
 1. [x] Chapter 16
 1. [x] Chapter 17
-    [x] 1
-    [x] 2
-    [x] 3
+    1. [x] 1
+    1. [x] 2
+    1. [x] 3
 1. [x] Chapter 18
 1. [x] Chapter 19
-    [x] Unsafe Rust
-    [x] Advanced Traits
-    [x] Advanced Types
-    [x] Advanced Functions and Closures
-    [x] Macros
+    1. [x] Unsafe Rust
+    1. [x] Advanced Traits
+    1. [x] Advanced Types
+    1. [x] Advanced Functions and Closures
+    1. [x] Macros
 1. [x] Chapter 20
-    [x] 1
-    [x] 2
-    [x] 3
-1. [ ] Appendix
-    A [ ]
-    B [ ]
-    C [ ]
-    D [ ]
-    E [ ]
-    F [x]
-    G [ ]
+    1. [x] 1
+    1. [x] 2
+    1. [x] 3
+1. [x] Appendix
+    1. A [x]
+    1. B [x]
+    1. C [x]
+    1. D [x]
+    1. E [x]
+    1. F [x]
+    1. G [x]
 
 
 ## Links
